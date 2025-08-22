@@ -1,0 +1,11 @@
+llama-3.3-70b-versatile | 12K/minute 100K/day | 
+llama3-70b-8192 | 6K/minute 500K/day | 
+meta-llama/llama-4-maverick-17b-128e-instruct | 6K/minute 500K/day | 
+meta-llama/llama-4-scout-17b-16e-instruct | 30K/minute 500K/day | 
+deepseek-r1-distill-llama-70b | 6K/minute 100K/day |
+qwen/qwen3-32b | 6K/minute 500K/day |
+
+The above models have worked for me except [deepseek-r1-distill-llama-70b]. I had some issues with this model in particular, and never found out why.
+
+*LINK TO THE FULL MODEL LIST*
+https://console.groq.com/playground
